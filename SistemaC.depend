@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672334907 source:c:\users\willi\onedrive\Área de trabalho\trabalho\trabalho da p2\ trabalho p2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
