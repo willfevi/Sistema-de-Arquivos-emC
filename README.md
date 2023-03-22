@@ -3,7 +3,7 @@ Esse sistema foi desenvolvido com foco em fundamentos de programção estruturad
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/result/img1.png" width="700px">&emsp;
+<img src="/img1.png" width="700px">&emsp;
 ## Tecnologias
 * C
 * Criação de arquivos em binário
