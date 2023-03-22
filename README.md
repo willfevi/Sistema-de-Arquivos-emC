@@ -1,5 +1,5 @@
 # Sistema manipulação de arquivos em C
-Esse sistema foi desenvolvido com foco em fundamentos de programção estruturada  
+Esse sistema foi desenvolvido com foco em fundamentos de programação estruturada para um projeto simples na faculdade.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
